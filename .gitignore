@@ -1,0 +1,5 @@
+venv/
+
+.env
+
+db_settings.json
