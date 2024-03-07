@@ -94,7 +94,7 @@ Step 4: Enter your username and password in the following dialogue box and click
 
 Step 5: In the navigator window, select the data that you require
 
-**You can see my dashboard [here]()**
+**You can see my dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTQwZjE5NjUtNTk4OC00YTAwLWEzZjMtNTg5YzAxMmI5NGFkIiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9)**
 
 
 ## Thank you for visiting this repository, remember to rate if it was helpful
