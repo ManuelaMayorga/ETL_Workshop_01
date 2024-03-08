@@ -68,18 +68,23 @@ Instsll PowerBI : [PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
     "database": "The name of your PostgreSQL database."
    }
     ```
-6. Create a .env file and add this variable:  
+6. Install necesary libreries:  
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+7. Create a .env file and add this variable:  
    WORK_PATH <- Sets the working directory for the application, indicating the base path for performing operations and managing files.
 
-7. Create a database in PostgreSQL (Make sure is the same name as your 'database' name in the json file)
+8. Create a database in PostgreSQL (Make sure is the same name as your 'database' name in the json file)
 
-8. Start browsing the notebooks:
+9. Start browsing the notebooks:
 - 01_load_data
 - 02_Candidates_EDA
 - 03_load_newdata
 - 04_HiredCandidate_EDA
 
-9. Go to powerBi and follow this steps:
+10. Go to powerBi and follow this steps:
 Step 1: Launch Power BI Desktop.  
 ![image](https://github.com/ManuelaMayorga/ETL_Workshop_01/assets/111150858/b25c1326-92b3-4e16-9d67-986440b1d305)
 
